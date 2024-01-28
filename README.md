@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Dexbooru, Multiplayer Math Game, Wella Weather Schedule App
+- 🌱 I’m currently learning JavasScript, TypeScript, Svelte
+- 👯 I’m looking to collaborate on projects! 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- ⚡ Fun fact: ...
+
+- 
 <!--
 **Lepre-CHAU-n/Lepre-CHAU-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
