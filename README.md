@@ -13,6 +13,10 @@ Hi there 👋
 💬 Languages and Tools:
 -
 bootstrap bulma c cplusplus css3 django express flask git html5 java javascript linux mongodb mysql nodejs pandas python react redis scikit_learn selenium svelte
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepre-CHAU-n&show_icons=true&theme=transparent)
+
 <!--
 **Lepre-CHAU-n/Lepre-CHAU-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
