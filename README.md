@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi there 👋
+- 
 
 - 🔭 I’m currently working on Dexbooru, Multiplayer Math Game, Wella Weather Schedule App
-- 🌱 I’m currently learning JavasScript, TypeScript, Svelte
+- 🌱 I’m currently learning JavasScript, TypeScript, Svelte, React
 - 📫 How to reach me: Email me at hbp@sfu.ca
 
 🏆 Achievements
@@ -9,7 +10,7 @@
 - 😎 SFU Experience Ventures National Hackathon - 2nd place [Hackathon Page](https://venturelabs.ca/sfu-students-pitch-their-way-to-the-top-with-their-wellness-app-concept/).
 
 
-Languages and Tools:
+💬 Languages and Tools:
 -
 bootstrap bulma c cplusplus css3 django express flask git html5 java javascript linux mongodb mysql nodejs pandas python react redis scikit_learn selenium svelte
 <!--
