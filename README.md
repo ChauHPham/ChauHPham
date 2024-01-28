@@ -12,7 +12,7 @@ Hi there 👋
 
 💬 Languages and Tools:
 -
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,react,git,c++,docker,c)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepre-CHAU-n&show_icons=true&theme=transparent) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepre-CHAU-n&layout=donut)](https://github.com/Lepre-CHAU-n/github-readme-stats)
 
