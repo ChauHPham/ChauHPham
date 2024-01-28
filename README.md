@@ -5,8 +5,8 @@
 - 📫 How to reach me: 
 
 🏆 Achievements
-😎 SFU Ventures Hackathon - 2nd place
-- 
+- 😎 SFU Ventures Hackathon - 2nd place https://venturelabs.ca/sfu-students-pitch-their-way-to-the-top-with-their-wellness-app-concept/
+
 <!--
 **Lepre-CHAU-n/Lepre-CHAU-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
