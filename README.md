@@ -1,8 +1,8 @@
 Hi there 👋
 - 
 
-- 🔭 I’m currently working on Dexbooru, Multiplayer Math Game, Wella Weather Schedule App
-- 🌱 I’m currently learning JavasScript, TypeScript, Svelte, React
+- 🔭 I’m currently working on: Dexbooru, Multiplayer Math Game, Wella Weather Schedule App
+- 🌱 I’m currently learning: JavaScript, TypeScript, Svelte, Three.js and React
 - 📫 How to reach me: Email me at hbp@sfu.ca
 
 🏆 Achievements
@@ -12,8 +12,7 @@ Hi there 👋
 
 💬 Languages and Tools:
 -
-bootstrap bulma c cplusplus css3 django express flask git html5 java javascript linux mongodb mysql nodejs pandas python react redis scikit_learn selenium svelte
-
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepre-CHAU-n&show_icons=true&theme=transparent) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepre-CHAU-n&layout=donut)](https://github.com/Lepre-CHAU-n/github-readme-stats)
 
