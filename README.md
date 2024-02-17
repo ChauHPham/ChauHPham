@@ -13,7 +13,7 @@ Hi there 👋
 
 💬 Languages and Tools:
 -
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,kotlin,nodejs,figma,react,git,cpp,docker,c,ts,threejs,tailwind,svelte,py,r,prisma,postman,postgres,nextjs,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,nodejs,figma,react,git,cpp,docker,c,ts,threejs,tailwind,svelte,py,r,prisma,postman,postgres,nextjs)](https://skillicons.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lepre-CHAU-n&show_icons=true&theme=transparent) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lepre-CHAU-n&layout=donut)](https://github.com/Lepre-CHAU-n/github-readme-stats)
 
