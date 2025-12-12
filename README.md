@@ -9,7 +9,7 @@ Hi there 👋
 🏆 Achievements
 - 
 - 😎 SFU Experience Ventures National Hackathon - 2nd place [Hackathon Page](https://venturelabs.ca/sfu-students-pitch-their-way-to-the-top-with-their-wellness-app-concept/).
-
+- 🔥 Business got funded by SFU Charles Chang Institute for Entrepreneurship
 
 💬 Languages and Tools:
 -
