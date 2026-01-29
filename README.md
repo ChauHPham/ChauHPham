@@ -1,7 +1,7 @@
 Hi there 👋
 - 
 
-- 🔭 I’m currently working on: Dexbooru, Multiplayer Math Game, Wella Weather Schedule App
+- 🔭 I’m currently working on: TruthGrid! You'll hear more from it soon :) 
 - 🌱 I’m currently learning: JavaScript, TypeScript, Svelte, Three.js and React
 - 💬 My Portfolio Website: https://chau-phams-portfolio.onrender.com/
 - 📫 How to reach me: Email me at hbp@sfu.ca
